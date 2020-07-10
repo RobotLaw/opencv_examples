@@ -1,0 +1,3 @@
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter05/build/CMakeFiles/morphology.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter05/build/CMakeFiles/mserFeatures.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter05/build/CMakeFiles/segment.dir

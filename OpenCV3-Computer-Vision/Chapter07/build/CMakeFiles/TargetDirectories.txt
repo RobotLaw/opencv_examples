@@ -1,0 +1,2 @@
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter07/build/CMakeFiles/blobs.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter07/build/CMakeFiles/contours.dir

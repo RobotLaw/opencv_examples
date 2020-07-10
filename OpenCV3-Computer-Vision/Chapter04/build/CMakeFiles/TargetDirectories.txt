@@ -1,0 +1,6 @@
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/contentfinder.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/finder.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/histograms.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/integral.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/retrieve.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter04/build/CMakeFiles/tracking.dir

@@ -1,0 +1,3 @@
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter03/build/CMakeFiles/colorDetection.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter03/build/CMakeFiles/extractObject.dir
+/home/vslamluo/backup/opencv/OpenCV3-Computer-Vision/Chapter03/build/CMakeFiles/huesaturation.dir
